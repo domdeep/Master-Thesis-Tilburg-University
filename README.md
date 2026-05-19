@@ -2,7 +2,7 @@
 
 MSc Thesis, Data Science and Society, Tilburg University, 2025
 
-###Grade: 8/10
+### Grade: 8/10
 
 This repository contains the code and resources for my Master's thesis submitted in partial fulfillment of the requirements for the MSc in Data Science and Society at Tilburg University (June 2025).
 
